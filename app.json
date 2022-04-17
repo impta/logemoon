@@ -1,17 +1,10 @@
 {
-    "name": "VCPlayerBot",
+    "name": "logemoon",
     "description": "Telegram bot to stream video in telegram VC",
-    "repository": "https://github.com/subinps/VCPlayerBot",
+    "repository": "https://github.com/impta/logemoon",
     "stack": "container",
     "keywords": [
       "telegram",
-      "bot",
-      "voicechat",
-      "music",
-      "python",
-      "pyrogram",
-      "pytgcalls",
-      "tgcalls",
       "voip"
     ],
     "env": {
