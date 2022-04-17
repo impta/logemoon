@@ -1,11 +1,25 @@
 {
-    "name": "logemoon",
+    "name": "VCPlayerBot",
     "description": "Telegram bot to stream video in telegram VC",
-    "repository": "https://github.com/impta/logemoon",
+    "repository": "https://github.com/subinps/VCPlayerBot",
     "stack": "container",
     "keywords": [
       "telegram",
+      "bot",
+      "voicechat",
+      "music",
+      "python",
+      "pyrogram",
+      "pytgcalls",
+      "tgcalls",
+      "voip"
     ],
+    "env": {
+      "api_id": {
+        "description": "A reply message to those who message the USER account in PM. Make it blank if you do not need this feature.",
+        "required": false
+      }
+    },
     "formation": {
       "worker": {
         "quantity": 1,
