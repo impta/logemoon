@@ -1,0 +1,15 @@
+{
+    "name": "logemoon",
+    "description": "Telegram bot to stream video in telegram VC",
+    "repository": "https://github.com/impta/logemoon",
+    "stack": "container",
+    "keywords": [
+      "telegram",
+    ],
+    "formation": {
+      "worker": {
+        "quantity": 1,
+        "size": "free"
+      }
+    }
+  }
