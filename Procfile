@@ -1,1 +1,1 @@
-web: python tg_delete_logger.py
+worker: python3 tg_delete_logger.py
