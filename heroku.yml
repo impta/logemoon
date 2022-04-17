@@ -1,1 +1,1 @@
-pip install git+https://github.com/TelegramPlayGround/Telethon.git@rotcev
+build: config.py
