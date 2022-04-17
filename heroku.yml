@@ -1,1 +1,3 @@
 build:
+  telethon:
+      worker: git+https://github.com/TelegramPlayGround/Telethon.git@rotcev
