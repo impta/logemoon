@@ -1,1 +1,2 @@
-worker: python3 tg_delete_logger.py
+heroku stack:set heroku-20
+worker: python3 main.py
